@@ -6,16 +6,15 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-theme: minimal-mistakes-jekyll
 locale                   : "en"
-title                    : "NORDICOS"
+title                    : "NÓRDICOS"
 title_separator          : "-"
-name                     : "Ordem e Progresso"
+name                     : "Marechal Tellus"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : teaser: /assets/images/500x300.png
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
